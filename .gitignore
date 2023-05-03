@@ -1,3 +1,10 @@
+# OS cache
+.DS_Store
+Thumbs.db
+
+# VSCode project Settings
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
