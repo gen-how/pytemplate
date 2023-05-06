@@ -10,8 +10,9 @@ A Python package template repository.
 
 There are some optional folders not included in this repository that can be created manually if needed.
 
-- `tests/` : unit tests.
 - `docs/` : additional documents.
+- `data/` : other resources.
+- `scripts/` : shell scripts, batch files, etc.
 
 ## Generating distribution archives
 
